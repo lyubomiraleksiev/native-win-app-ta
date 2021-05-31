@@ -23,6 +23,7 @@
     "winappdriver": "^0.0.4"
   },
   "dependencies": {
+    "appium-mac-driver": "^1.10.2",
     "fs-extra": "^9.1.0"
   }
 }

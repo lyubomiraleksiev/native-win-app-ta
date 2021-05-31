@@ -4,7 +4,7 @@ import live_traffic from '../pages/live-traffic.page';
 import composer from '../pages/composer.page';
 
 beforeAll(() => {
-    return TestEnvironment.setup();;
+    return TestEnvironment.setup();
 })
 
 afterAll(async () => {
