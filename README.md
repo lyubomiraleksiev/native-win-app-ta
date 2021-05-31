@@ -8,10 +8,7 @@ An example of jest, selenium-webdriver and winappdriver integration
 ## Preparation
 1. Windows machine
 2. Nodejs and Yarn
-    - https://nodejs.org/en/
-    - 
 3. WinAppDriver
-    - 
 4. Enable developer mode
 
 ## Install all dependencies
